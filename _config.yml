@@ -1,11 +1,11 @@
 # Site settings
 title: Shree Consultants
 description: "Income Tax and PF Consultants"
-url: "http://www.jacoporabolini.com/emerald"
+url: "http://www.auditorbhr.github.io/emerald"
 author:
   name: "Murali Bhat"
   email: "shrcoff@gmail.com"
-  url: "http://www.jacoporabolini.com"
+  url: "http://www.auditorbhr.github.io/emerald/"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
