@@ -1,20 +1,20 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
+title: Shree Consultants
+description: "Income Tax and PF Consultants"
 url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
+  name: "Murali Bhat"
+  email: "shrcoff@gmail.com"
   url: "http://www.jacoporabolini.com"
 
 # Build settings
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
-permalink: /:title
+permalink: :title
 paginate: 8
-paginate_path: /page:num/
+paginate_path: page:num/
 
 # Default values
 defaults:
